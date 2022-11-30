@@ -1,0 +1,3 @@
+This project aims to implement a web application to maintain visitor and information about COVID 19 testing facility, vaccinated percentage and to maintain covid tracks in India. 
+The motivation behind the development of this project is a need to efficiently manage the footfall at the testing facility. 
+The product aims to digitalize the record maintenance of COVID 19 in India. 
